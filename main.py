@@ -4,7 +4,7 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
-token = os.environ.get('BOT_TOKEN')
+token = os.environ.get('BOT_TOKEN') #
 
 bot = interactions.Client(token=token)
 
