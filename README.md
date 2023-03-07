@@ -1,5 +1,6 @@
-# chatgpt-detector-bot
- A Discord bot that detects if text is written by ChatGPT or not.
+# ChatGPT Detector
+A Discord bot that detects if text is written by ChatGPT or not.
+
 
 
 ![Discord_vAuLfqB9Ah](https://user-images.githubusercontent.com/34923485/223352305-8f635956-f486-4017-8172-f14017c61d01.gif)
